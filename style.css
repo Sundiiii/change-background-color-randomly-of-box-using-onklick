@@ -1,0 +1,7 @@
+.outer{
+    display: flex;
+    flex-direction: column;
+       background-color:rgb(146, 114, 250);
+    width: 220px;
+    height: 220px;
+}
